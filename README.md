@@ -1,5 +1,7 @@
 # Roteiro Entrevista Spring Boot
 
+## NÃO FAÇA FORK DESSE REPOSITÓRIO
+
 ## Objetivo
 
 Nosso objetivo com este passo do processo de recrutamento é conhecer melhor as suas habilidades técnicas.
